@@ -1,0 +1,3 @@
+Análisis del archivo: entrada.txt
+========================================
+El número total de palabras es: 26

@@ -1,0 +1,3 @@
+La programacion orientada a objetos es un paradigma fundamental.
+Java es un lenguaje potente y versátil.
+Practicar con archivos y serializacion ayuda a reforzar conceptos clave.
