@@ -23,3 +23,7 @@ Para obtener una copia local de este proyecto y ejecutarlo en tu entorno, sigue 
     **Ejecuta la Parte 1:**
     ```bash
     java ManipuladorArchivos
+    ```
+    **Ejecuta la Parte 2:**
+    ```bash
+    java Serializador
