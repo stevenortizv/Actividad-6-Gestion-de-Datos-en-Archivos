@@ -8,7 +8,7 @@ Para obtener una copia local de este proyecto y ejecutarlo en tu entorno, sigue 
 2.  **Clonar el Repositorio:**
     Abrir la terminal (VS Code) y ejecuta el comando:
     ```bash
-    git clone https://github.com/stevenortizv/Actividad6-GestionDatos.git
+    git clone https://github.com/stevenortizv/Actividad-6-Gestion-de-Datos-en-Archivos.git
     ```
 3.  **Acceder al Directorio del Proyecto:**
     Navega a la carpeta del proyecto clonado:
