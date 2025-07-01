@@ -1,4 +1,4 @@
-# Actividad 6: Gestión de Datos de Archivos
+# Actividad 6: Gestión de Datos en Archivos
 
 ## Cómo Clonar y Ejecutar el Proyecto
 
