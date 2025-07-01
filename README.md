@@ -18,7 +18,7 @@ Para obtener una copia local de este proyecto y ejecutarlo en tu entorno, sigue 
 4.  **Compilar y Ejecutar:**
     Una vez dentro de la carpeta, se puedes compilar (si es necesario, porque ya esta compilado) y ejecutar el programa principal:
     
-    **Compilar:**
+    1. **Compilar:**
     ```bash
     javac *.java
     ```
