@@ -16,7 +16,9 @@ Para obtener una copia local de este proyecto y ejecutarlo en tu entorno, sigue 
     cd Actividad6-GestionDatos
     ```
 4.  **Compilar y Ejecutar:**
-    Una vez dentro de la carpeta,se puedes compilar (si es necesario, porque ya esta compilado) y ejecutar el programa principal:
+    Una vez dentro de la carpeta, se puedes compilar (si es necesario, porque ya esta compilado) y ejecutar el programa principal:
     ```bash
     javac *.java
+    ```
+    ```bash
     java ManipuladorArchivos
