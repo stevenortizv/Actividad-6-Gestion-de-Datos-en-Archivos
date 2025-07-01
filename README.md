@@ -13,7 +13,7 @@ Para obtener una copia local de este proyecto y ejecutarlo en tu entorno, sigue 
 3.  **Acceder al Directorio del Proyecto:**
     Navega a la carpeta del proyecto clonado:
     ```bash
-    cd Actividad6-GestionDatos
+    cd Actividad-6-Gestion-de-Datos-en-Archivos
     ```
 4.  **Compilar y Ejecutar:**
     Una vez dentro de la carpeta, se puedes compilar (si es necesario, porque ya esta compilado) y ejecutar el programa principal:
